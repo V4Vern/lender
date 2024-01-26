@@ -5,6 +5,7 @@ public class Loan {
     private double interestRate;
 
     static private double maxLoanAmount;
+    
 
     public static double getMaxLoanAmount() {
         return maxLoanAmount;
